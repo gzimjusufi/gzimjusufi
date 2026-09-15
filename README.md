@@ -4,7 +4,7 @@
 
 B.Sc. Computer Science (SEEU, North Macedonia). Comfortable owning a project end-to-end: database schema, API, frontend, CI/CD, and — when the problem calls for it — training and deploying the model myself.
 
-📫 [jusufigzim2@gmail.com](mailto:jusufigzim2@gmail.com) · [HuggingFace](https://huggingface.co/GzimJusufi) · [LinkedIn](httos://www.linkedin.com/in/gzim-jusufi-4510b73a5)
+📫 [jusufigzim2@gmail.com](mailto:jusufigzim2@gmail.com) · [HuggingFace](https://huggingface.co/GzimJusufi) · [LinkedIn](https://www.linkedin.com/in/gzim-jusufi-4510b73a5)
 
 ---
 
