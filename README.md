@@ -30,7 +30,7 @@ Currently building a client/agency management platform (private, pre-launch).
 
 - **[intervu](https://github.com/gzimjusufi/intervu)** — AI interview simulator
 - **[code-review-agent](https://github.com/gzimjusufi/code-review-agent)** — AI code reviewer
-- **ai-meeting-notes** — meeting notes generated from audio
+- **[ai-meeting-notes](https://github.com/gzimjusufi/ai-meeting-notes)** — meeting notes generated from audio
 
 ---
 
